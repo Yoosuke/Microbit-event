@@ -26,7 +26,7 @@
 ##### 「<ruby>文字列<rp>（</rp><rt>もじれつ</rt><rp>）</rp></ruby>を<ruby>表示<rp>（</rp><rt>ひょうじ</rt><rp>）</rp></ruby>」をドラッグして「<ruby>最初<rp>（</rp><rt>さいしょ</rt><rp>）</rp></ruby>だけ」の中に入れよう。
 ---
 ![確認しよう](./img/howtouse-6.png)
-##### <ruby>一回<rp>（</rp><rt>いっかい</rt><rp>）</rp></ruby>だけ「Hello!」という<ruby>文字<rp>（</rp><rt>もじ</rt><rp>）</rp></ruby>が<ruby>表示<rp>（</rp><rt>ひょうじ</rt><rp>）</rp></ruby>されることを<ruby>左<rp>（</rp><rt>ひだり</rt><rp>）</rp></ruby>のシミュレーターで<ruby>確認<rp>（</rp><rt>かくにん</rt><rp>）</rp></ruby>しよう。
+##### 一回だけ「Hello!」という文字が表示されることを左のシミュレーターで<ruby>確認<rp>（</rp><rt>かくにん</rt><rp>）</rp></ruby>しよう。
 ---
 #### ハードウェアの<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>：<ruby>micro:bit<rp>（</rp><rt>マイクロビット</rt><rp>）</rp></ruby>
 
