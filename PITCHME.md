@@ -25,5 +25,8 @@
 ![ブロックをつなげよう](./img/JPEG/howtouse-5.jpg)
 ##### 「<ruby>文字列<rp>（</rp><rt>もじれつ</rt><rp>）</rp></ruby>を<ruby>表示<rp>（</rp><rt>ひょうじ</rt><rp>）</rp></ruby>」をドラッグして「<ruby>最初<rp>（</rp><rt>さいしょ</rt><rp>）</rp></ruby>だけ」の中に入れよう。
 ---
+![確認しよう](./img/howtouse-6.png)
+##### 一回だけ「Hello!」という文字が表示される事を左のシミュレーターで確認しよう。
+
 
 ---
