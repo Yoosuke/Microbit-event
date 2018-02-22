@@ -2,7 +2,7 @@
 ---
 ![MicrobitのHPでEnglishを日本語に変更しましょう](./img/microbit-1.png)
 ---
-![日本語を選択](./img/japanese.png)
+![日本語を選択](./img/Japanese.png)
 ---
 ![Microbit](./img/microbit-ja.png)
 ---
