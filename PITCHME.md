@@ -30,11 +30,9 @@
 ---
 #### ハードウェアの<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>：<ruby>micro:bit<rp>（</rp><rt>マイクロビット</rt><rp>）</rp></ruby>
 
-|![表側](http://microbit.org/images/microbit-front.png)|![裏側](http://microbit.org/images/microbit-back.png)|
-|:---:|:---:|
-|micro:bit <ruby>表<rp>（</rp><rt>おもて</rt><rp>）</rp></ruby> | micro:bit <ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>|
+|![説明](./img/microbit_Description.png)
 ##### マイクロコンピュータと<ruby>入力<rp>（</rp><rt>にゅうりょく</rt><rp>）</rp></ruby>や<ruby>出力<rp>（</rp><rt>しゅつりょく</rt><rp>）</rp></ruby>を<ruby>備<rp>（</rp><rt>そな</rt><rp>）</rp></ruby>えた<ruby>基盤<rp>（</rp><rt>きばん</rt><rp>）</rp></ruby>です。
 ---
 #### <ruby>micro:bit<rp>（</rp><rt>マイクロビット</rt><rp>）</rp></ruby>の<ruby>機能紹介<rp>（</rp><rt>きのうしょうかい</rt><rp>）</rp></ruby>⑴ LED
-![LED](http://microbit.org/images/beating-heart.gif)
+![LED]()
 #####  <ruby>LED<rp>（</rp><rt>エル イー ディー</rt><rp>）</rp></ruby>:は<ruby>発行<rp>（</rp><rt>はっこう</rt><rp>）</rp></ruby>ダイオード(Light Emitting Diode)という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。Micro:bitには25コのLEDがあります。
