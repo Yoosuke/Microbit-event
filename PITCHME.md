@@ -1,5 +1,6 @@
 # [Micro:bit]("http://microbit.org/")
 ---
+### Tutorial(まずはじめに使い方の説明)
 ![MicrobitのHPでEnglishを日本語に変更しましょう](./img/JPEG/microbit-1.jpg)
 ---
 ![日本語を選択](./img/JPEG/Japanese.jpg)
@@ -28,11 +29,40 @@
 ![確認しよう](./img/howtouse-6.png)
 ##### 一回だけ「Hello!」という文字が表示されることを左のシミュレーターで<ruby>確認<rp>（</rp><rt>かくにん</rt><rp>）</rp></ruby>しよう。
 ---
+![ブロックを削除しよう](./img/howtouse-9.png)
+##### 左のエリアにドラッグしてブロックを削除しよう。
+
+---
+### <ruby>LESSON<rp>（</rp><rt>レッスン</rt><rp>）</rp></ruby>1
+#### <ruby>操作方法<rp>（</rp><rt>そうさほうほう</rt><rp>）</rp></ruby>は<ruby>理解<rp>（</rp><rt>りかい</rt><rp>）</rp></ruby>しましたか？
+理解ができたところで、実際にmicrobitを自分の思い通りに
+動かせるようにプログラムを組んでいきましょう！
+
+---
 #### ハードウェアの<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>：<ruby>micro:bit<rp>（</rp><rt>マイクロビット</rt><rp>）</rp></ruby>
 
 ![説明](./img/microbit_Description.png)
 ##### マイクロコンピュータと<ruby>入力<rp>（</rp><rt>にゅうりょく</rt><rp>）</rp></ruby>や<ruby>出力<rp>（</rp><rt>しゅつりょく</rt><rp>）</rp></ruby>を<ruby>備<rp>（</rp><rt>そな</rt><rp>）</rp></ruby>えた<ruby>基盤<rp>（</rp><rt>きばん</rt><rp>）</rp></ruby>です。
 ---
+#### <ruby>取扱<rp>（</rp><rt>とりあつか</rt><rp>）</rp></ruby>いの<ruby>注意点<rp>（</rp><rt>ちゅういてん</rt><rp>）</rp></ruby>！ 濡れた手でさわらない
+
+![濡れた手で触るな](http://4.bp.blogspot.com/-ip5liN2Rt1M/WOsvxwQmoBI/AAAAAAABDs0/-ACD8WfMG9gz4YM-UOFSxbvSwoEgVJTUACLcB/s800/hand_dryer_paper.png)
+---
 #### <ruby>micro:bit<rp>（</rp><rt>マイクロビット</rt><rp>）</rp></ruby>の<ruby>機能紹介<rp>（</rp><rt>きのうしょうかい</rt><rp>）</rp></ruby>⑴ LED
-![LED]()
-#####  <ruby>LED<rp>（</rp><rt>エル イー ディー</rt><rp>）</rp></ruby>:は<ruby>発行<rp>（</rp><rt>はっこう</rt><rp>）</rp></ruby>ダイオード(Light Emitting Diode)という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。Micro:bitには25コのLEDがあります。
+![LED](./img/microbit_LED.png)
+#####  <ruby>LED<rp>（</rp><rt>エル イー ディー</rt><rp>）</rp></ruby>:は<ruby>発行<rp>（</rp><rt>はっこう</rt><rp>）</rp></ruby>ダイオード(Light Emitting Diode)という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。Micro:bitには25個のLEDがあり、これを使って数字や文字を表現してます。
+---
+### LESSON1 の目的
+
+LEDの表示を自分の意図した通りに表現できるようになる。
+- このLESSONで使うブロックの種類
+
+
+
+
+---
+#### Micro:bitのLEDを制御して色々な表示をしよう
+![LED](./img/howtouse-8.png)
+##### 「基本」→「ずっと」を<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでクリックします。
+---
+#### アイコンを表示しよう
