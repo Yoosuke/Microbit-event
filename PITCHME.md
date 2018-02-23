@@ -50,15 +50,13 @@
 ---
 #### <ruby>micro:bit<rp>（</rp><rt>マイクロビット</rt><rp>）</rp></ruby>の<ruby>機能紹介<rp>（</rp><rt>きのうしょうかい</rt><rp>）</rp></ruby>⑴ LED
 ![LED](./img/microbit_LED.png)
-#####  <ruby>LED<rp>（</rp><rt>エル イー ディー</rt><rp>）</rp></ruby>:は<ruby>発行<rp>（</rp><rt>はっこう</rt><rp>）</rp></ruby>ダイオード(Light Emitting Diode)という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。Micro:bitには25個のLEDがあり、これを使って数字や文字を表現してます。
+#####  <ruby>LED<rp>（</rp><rt>エル イー ディー</rt><rp>）</rp></ruby>:は<ruby>発行<rp>（</rp><rt>はっこう</rt><rp>）</rp></ruby>ダイオード(Light Emitting Diode)という意味です。Micro:bitには25個のLEDがあり、これを使って数字や文字を表現してます。
 ---
 ### LESSON1 の目的
 
-LEDの表示を自分の意図した通りに表現できるようになる。
-- このLESSONで使うブロックの種類
-
-
-
+- LEDの表示を自分の意図した通りに表現できるようになる。
+- 「最初だけ」・「ずっと」・「ミリ秒」を理解する。
+- プログラムに名前をつけて、micro:bitに入れて動かす。
 
 ---
 #### Micro:bitのLEDを制御して色々な表示をしよう
@@ -66,3 +64,11 @@ LEDの表示を自分の意図した通りに表現できるようになる。
 ##### 「基本」→「ずっと」を<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでクリックします。
 ---
 #### アイコンを表示しよう
+
+---
+### プログラムとは
+
+プログラムは、コンピュータを動かす為に「いつ」「どうする」を書いた命令書みたいなものだよ。
+
+![プログラムとは](./img/LESSON-1-2.png)
+---
