@@ -78,10 +78,16 @@
 ### やってみよう!
 #### ハートがドキドキするアニメーションを作ってみよう！
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:10;width:50%;height:50%;" src="https://makecode.microbit.org/---run?id=_DELXbrcy1ehD" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:50%;height:50%;" src="https://makecode.microbit.org/---run?id=_DELXbrcy1ehD" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 ---
 ### ヒント
 
 ![利用するブロック](./img/LESSON-1-3.png)
+
+---
+### 作ったプログラムに名前をつけて保存しよう。
+
+---
+### プログラムをMicro:bitに入れて動かして見よう！
 
 ---
