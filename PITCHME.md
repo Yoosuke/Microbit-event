@@ -78,7 +78,7 @@
 ### やってみよう!
 #### ハートがドキドキするアニメーションを作ってみよう！
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:50%;height:50%;" src="https://makecode.microbit.org/---run?id=_DELXbrcy1ehD" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:50%;" src="https://makecode.microbit.org/---run?id=_DELXbrcy1ehD" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 ---
 ### ヒント
 
@@ -89,5 +89,11 @@
 
 ---
 ### プログラムをMicro:bitに入れて動かして見よう！
+
+---
+### LESSON2
+Micro:bitのLEDに色々な表示ができるようになりましたか？
+LEDの表示は「出力」
+それでは、続いてMicro:bitに何か
 
 ---
