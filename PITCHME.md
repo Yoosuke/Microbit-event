@@ -77,10 +77,10 @@
 ---
 ### やってみよう!
 #### ハートがドキドキするアニメーションを作ってみよう！
-
-<div style="position:absolute;height:0;left:0;right:0;bottom:0;margin:auto;overflow:hidden;">
-<iframe style="position:absolute;top:0;left:0;width:50%;height:50%;" src="https://makecode.microbit.org/---run?id=_DELXbrcy1ehD" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe>
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_E862qX8ACXFf" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe>
 </div>
+
 ---
 ### ヒント
 
