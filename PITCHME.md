@@ -2,6 +2,7 @@
 ---
 ### <ruby>Tutorial<rp>（</rp><rt>チュートリアル</rt><rp>）</rp></ruby>(まずはじめに使い方の説明)
 ![MicrobitのHPでEnglishを日本語に変更しましょう](./img/JPEG/microbit-1.jpg)
+##### [http://microbit.org/](http://microbit.org/)
 ---
 ![日本語を選択](./img/JPEG/Japanese.jpg)
 ---
@@ -87,7 +88,7 @@
 ![利用するブロック](./img/LESSON-1-3.png)
 
 ---
-### つくったプログラムに名前をつけよう。
+### プログラムに名前をつけよう。
 ![名前をつける](./img/LESSON-1-4.png)
 - 「クリック」
 - 「delete」キーで「題名未設定」を削除
@@ -101,6 +102,8 @@
 ![保存先](./img/LESSON-1-6.png)
 
 ---
+###
+
 ### LESSON2
 Micro:bitのLEDに色々な表示ができるようになりましたか？
 LEDの表示は「出力」
