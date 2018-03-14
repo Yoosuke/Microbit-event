@@ -27,10 +27,10 @@
 ![ブロックをつなげよう](./img/JPEG/howtouse-5.jpg)
 ##### 「<ruby>文字列<rp>（</rp><rt>もじれつ</rt><rp>）</rp></ruby>を<ruby>表示<rp>（</rp><rt>ひょうじ</rt><rp>）</rp></ruby>」をドラッグして「<ruby>最初<rp>（</rp><rt>さいしょ</rt><rp>）</rp></ruby>だけ」の中に入れよう。
 ---
-![確認しよう](./img/howtouse-6.png)
+![確認しよう](./img/howto/howtouse-6.png)
 ##### 一回だけ「Hello!」という文字が表示されることを左のシミュレーターで<ruby>確認<rp>（</rp><rt>かくにん</rt><rp>）</rp></ruby>しよう。
 ---
-![ブロックを削除しよう](./img/howtouse-9.png)
+![ブロックを削除しよう](./img/howto/howtouse-9.png)
 ##### 左のエリアにドラッグしてブロックを削除しよう。
 
 ---
@@ -61,12 +61,12 @@
 
 ---
 #### Micro:bitのLEDを制御して色々な表示をしよう
-![LED](./img/howtouse-8.png)
+![LED](./img/howto/howtouse-8.png)
 ##### 「基本」→「ずっと」を<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでクリックします。
 ---
 #### アイコンを表示しよう
 
-![アイコンを表示](./img/LESSON-1-1.png)
+![アイコンを表示](./img/LESSON1/LESSON-1-1.png)
 
 ##### 「アイコンを表示」を選んで「ずっと」ブロックの中に入れ、アイコンをクリックして好きなアイコンを表示するプログラムを作りましょう。
 ---
@@ -74,7 +74,7 @@
 
 プログラムは、コンピュータを動かす為に「いつ」「どうする」を書いた命令書みたいなものだよ。
 
-![プログラムとは](./img/LESSON-1-2.png)
+![プログラムとは](./img/LESSON1/LESSON-1-2.png)
 ---
 ### やってみよう!
 #### ハートがドキドキするアニメーションを作ってみよう！
@@ -85,28 +85,67 @@
 ---
 ### ヒント
 
-![利用するブロック](./img/LESSON-1-3.png)
+![利用するブロック](./img/LESSON1/LESSON-1-3.png)
 
 ---
 ### プログラムに名前をつけよう。
-![名前をつける](./img/LESSON-1-4.png)
+![名前をつける](./img/LESSON1/LESSON-1-4.png)
 - 「クリック」
 - 「delete」キーで「題名未設定」を削除
 - 「Heart」と入力します。
 ---
 ### プログラムを保存しよう。
-![保存する](./img/LESSON-1-5.png)
+![保存する](./img/LESSON1/LESSON-1-5.png)
 - 上をクリックするとプログラムファイルがダウンロードフォルダに保存される。
 ---
 ### プログラムをMicro:bitに入れて動かして見よう！
-![保存先](./img/LESSON-1-6.png)
+![保存先](./img/LESSON1/LESSON-1-6.png)
 
 ---
-###
+### LESSON2 の目的
 
-### LESSON2
-Micro:bitのLEDに色々な表示ができるようになりましたか？
-LEDの表示は「出力」
-それでは、続いてMicro:bitの「インプット」を使って
+- 入力条件について理解する
+- 変数の使い方が分かる
+---
 
+### ボタンを使って、表示する数値を変えてみよう。
+![LESSON2-1](./img/LESSON2/LESSON2-1.png)
+---
+### Aボタンを押すと「0を表示する」を作る
+
+![LESSON2-2](./img/LESSON2/LESSON2-2.png)
+
+---
+### 変数を使ってみよう[変数]をクリック
+![LESSON2-3](./img/LESSON2/LESSON2-3.png)
+
+---
+### 「変数を０にする」をクリック
+![LESSON2-4](./img/LESSON2/LESSON2-4.png)
+
+---
+### 「変数」を使って数字を表示しよう
+![LESSN2-5](./img/LESSON2/LESSON2-5.png)
+
+---
+### Aボタンを押して「０」が表示された
+![LESSN2-6](./img/LESSON2/LESSON2-6.png)
+---
+### 変数のイメージ
+![LESSN2-7](./img/LESSON2/LESSON2-7.png)
+
+---
+### Bボタンを押して表示する数字を増やそう
+
+![LESSN2-8](./img/LESSON2/LESSON2-8.png)
+---
+### やってみよう！
+
+Aボタンを押すと、数字が増えて
+Bボタンを押すと、数字が0になる
+
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:60%;height:60%;" src="https://makecode.microbit.org/---run?id=_idAh5TMpHLFs" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+---
+### ヒント
+![LESSON2-9](./img/LESSON2/LESSON2-9.png)
 ---
